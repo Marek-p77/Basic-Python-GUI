@@ -2,7 +2,7 @@
 
 ### 📄 Popis
 
-x
+Velmi jednoduchý GUI (graphical user interface - grafické uživatelské rozhraní) napsané v Pythonu s pomocí modulu PySimpleGUI. Slouží hlavně pro demonstraci a ukázce, jak udělat relativně hezké GUI lehce a s minimem kódu.
 
 ### ⚒️ Použití
 
