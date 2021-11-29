@@ -1,4 +1,4 @@
-# 📟 Basic Python GUI
+# 📟 Basic Python GUI v1.0
 
 ### 📄 Popis
 
