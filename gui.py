@@ -10,7 +10,7 @@ layout = [  [sg.Text("Přihlašte se prosím", text_color='white', background_co
             [sg.Text(" ", text_color='white', background_color='#000')], # Mezera mezi textovým polem a tlačítkem (prázdný text na šestém řádku)
             [sg.Button('Přihlásit se', button_color='#08a4ff')] ] # Tlačítko pro potvrzení / ukončení programu
 
-window = sg.Window('GalaxySystems', layout, background_color='#000') # Nadpis GUI + Barva pozadí
+window = sg.Window('GalaxySystems', layout, background_color='#000') # Nadpis GUI + Barva pozadí 
 
 event, values = window.read() # Otevření GUI
 print('[LOG]', values[0], "se přihlásil s heslem ", values[1]) # Vypsání textu z textových polí do příkazového řádku
